@@ -24,6 +24,7 @@
 # 禁止访问列表
 
 # 广告关键词
+(^|\.)\w*adredir\w*\.\w*$
 (^|\.)\w*admarvel\w*\.\w*$
 (^|\.)\w*admaster\w*\.\w*$
 (^|\.)\w*adsage\w*\.\w*$
